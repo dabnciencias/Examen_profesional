@@ -2279,12 +2279,33 @@
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
-                "duration": 2.0,
+                "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
                 "in_project_video": "video_0108.mp4",
                 "in_project_thumbnail": "thumb_0108.jpg",
                 "in_project_id": 108,
                 "parent_id": 108
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Conclusiones_y_perspectivas/1080p60/sections/Perspectivas_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
+                "in_project_video": "video_0109.mp4",
+                "in_project_thumbnail": "thumb_0109.jpg",
+                "in_project_id": 109,
+                "parent_id": 109
             }
         ]
     },
@@ -2302,10 +2323,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0109.mp4",
-                "in_project_thumbnail": "thumb_0109.jpg",
-                "in_project_id": 109,
-                "parent_id": 109
+                "in_project_video": "video_0110.mp4",
+                "in_project_thumbnail": "thumb_0110.jpg",
+                "in_project_id": 110,
+                "parent_id": 110
             }
         ]
     },
@@ -2323,10 +2344,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0110.mp4",
-                "in_project_thumbnail": "thumb_0110.jpg",
-                "in_project_id": 110,
-                "parent_id": 110
+                "in_project_video": "video_0111.mp4",
+                "in_project_thumbnail": "thumb_0111.jpg",
+                "in_project_id": 111,
+                "parent_id": 111
             }
         ]
     }
