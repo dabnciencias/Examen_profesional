@@ -1767,11 +1767,11 @@
         "sections_len": 1,
         "sections": [
             {
-                "id": 0,
+                "id": 1,
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasExactas_0000.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/SucesionExactaAsociada_0001.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -1788,11 +1788,11 @@
         "sections_len": 1,
         "sections": [
             {
-                "id": 1,
+                "id": 2,
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasExactas_0001.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/SucesionExactaAsociada_0002.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -1813,7 +1813,7 @@
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasTrianguladas_0000.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasExactas_0000.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -1834,7 +1834,7 @@
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasTrianguladas_0001.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasExactas_0001.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -1844,6 +1844,48 @@
                 "in_project_thumbnail": "thumb_0087.jpg",
                 "in_project_id": 87,
                 "parent_id": 87
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasTrianguladas_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
+                "in_project_video": "video_0088.mp4",
+                "in_project_thumbnail": "thumb_0088.jpg",
+                "in_project_id": 88,
+                "parent_id": 88
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/RelacionConCategoriasTrianguladas_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
+                "in_project_video": "video_0089.mp4",
+                "in_project_thumbnail": "thumb_0089.jpg",
+                "in_project_id": 89,
+                "parent_id": 89
             }
         ]
     },
@@ -1861,10 +1903,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0088.mp4",
-                "in_project_thumbnail": "thumb_0088.jpg",
-                "in_project_id": 88,
-                "parent_id": 88
+                "in_project_video": "video_0090.mp4",
+                "in_project_thumbnail": "thumb_0090.jpg",
+                "in_project_id": 90,
+                "parent_id": 90
             }
         ]
     },
@@ -1882,10 +1924,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0089.mp4",
-                "in_project_thumbnail": "thumb_0089.jpg",
-                "in_project_id": 89,
-                "parent_id": 89
+                "in_project_video": "video_0091.mp4",
+                "in_project_thumbnail": "thumb_0091.jpg",
+                "in_project_id": 91,
+                "parent_id": 91
             }
         ]
     },
@@ -1903,10 +1945,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0090.mp4",
-                "in_project_thumbnail": "thumb_0090.jpg",
-                "in_project_id": 90,
-                "parent_id": 90
+                "in_project_video": "video_0092.mp4",
+                "in_project_thumbnail": "thumb_0092.jpg",
+                "in_project_id": 92,
+                "parent_id": 92
             }
         ]
     },
@@ -1924,10 +1966,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0091.mp4",
-                "in_project_thumbnail": "thumb_0091.jpg",
-                "in_project_id": 91,
-                "parent_id": 91
+                "in_project_video": "video_0093.mp4",
+                "in_project_thumbnail": "thumb_0093.jpg",
+                "in_project_id": 93,
+                "parent_id": 93
             }
         ]
     },
@@ -1940,48 +1982,6 @@
                 "type": "normal",
                 "is_sub_section": false,
                 "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/ObjetosProyectivosEInyectivos_0003.mp4",
-                "width": 1920,
-                "height": 1080,
-                "fps": "60",
-                "duration": 1.0,
-                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0092.mp4",
-                "in_project_thumbnail": "thumb_0092.jpg",
-                "in_project_id": 92,
-                "parent_id": 92
-            }
-        ]
-    },
-    {
-        "sections_len": 1,
-        "sections": [
-            {
-                "id": 0,
-                "name": "unnamed",
-                "type": "normal",
-                "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/CategoriasExtrianguladasCociente_0000.mp4",
-                "width": 1920,
-                "height": 1080,
-                "fps": "60",
-                "duration": 1.0,
-                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0093.mp4",
-                "in_project_thumbnail": "thumb_0093.jpg",
-                "in_project_id": 93,
-                "parent_id": 93
-            }
-        ]
-    },
-    {
-        "sections_len": 1,
-        "sections": [
-            {
-                "id": 1,
-                "name": "unnamed",
-                "type": "normal",
-                "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/CategoriasExtrianguladasCociente_0001.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -2002,7 +2002,7 @@
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/ParesDeCotorsionCompletos_0000.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/CategoriasExtrianguladasCociente_0000.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -2019,11 +2019,11 @@
         "sections_len": 1,
         "sections": [
             {
-                "id": 0,
+                "id": 1,
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Portadas_y_referencias/1080p60/sections/ConclusionesPerspectivas_0000.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/CategoriasExtrianguladasCociente_0001.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -2044,7 +2044,7 @@
                 "name": "unnamed",
                 "type": "normal",
                 "is_sub_section": false,
-                "original_video": "/home/diek/ExTr/Presen/media/videos/Conclusiones_y_perspectivas/1080p60/sections/Conclusiones_0000.mp4",
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Propiedades_fundamentales_de_categor\u00edas_extrianguladas/1080p60/sections/ParesDeCotorsionCompletos_0000.mp4",
                 "width": 1920,
                 "height": 1080,
                 "fps": "60",
@@ -2054,6 +2054,48 @@
                 "in_project_thumbnail": "thumb_0097.jpg",
                 "in_project_id": 97,
                 "parent_id": 97
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Portadas_y_referencias/1080p60/sections/ConclusionesPerspectivas_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
+                "in_project_video": "video_0098.mp4",
+                "in_project_thumbnail": "thumb_0098.jpg",
+                "in_project_id": 98,
+                "parent_id": 98
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/diek/ExTr/Presen/media/videos/Conclusiones_y_perspectivas/1080p60/sections/Conclusiones_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
+                "in_project_video": "video_0099.mp4",
+                "in_project_thumbnail": "thumb_0099.jpg",
+                "in_project_id": 99,
+                "parent_id": 99
             }
         ]
     },
@@ -2071,10 +2113,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0098.mp4",
-                "in_project_thumbnail": "thumb_0098.jpg",
-                "in_project_id": 98,
-                "parent_id": 98
+                "in_project_video": "video_0100.mp4",
+                "in_project_thumbnail": "thumb_0100.jpg",
+                "in_project_id": 100,
+                "parent_id": 100
             }
         ]
     },
@@ -2092,10 +2134,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0099.mp4",
-                "in_project_thumbnail": "thumb_0099.jpg",
-                "in_project_id": 99,
-                "parent_id": 99
+                "in_project_video": "video_0101.mp4",
+                "in_project_thumbnail": "thumb_0101.jpg",
+                "in_project_id": 101,
+                "parent_id": 101
             }
         ]
     },
@@ -2113,10 +2155,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0100.mp4",
-                "in_project_thumbnail": "thumb_0100.jpg",
-                "in_project_id": 100,
-                "parent_id": 100
+                "in_project_video": "video_0102.mp4",
+                "in_project_thumbnail": "thumb_0102.jpg",
+                "in_project_id": 102,
+                "parent_id": 102
             }
         ]
     },
@@ -2134,10 +2176,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0101.mp4",
-                "in_project_thumbnail": "thumb_0101.jpg",
-                "in_project_id": 101,
-                "parent_id": 101
+                "in_project_video": "video_0103.mp4",
+                "in_project_thumbnail": "thumb_0103.jpg",
+                "in_project_id": 103,
+                "parent_id": 103
             }
         ]
     },
@@ -2155,10 +2197,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0102.mp4",
-                "in_project_thumbnail": "thumb_0102.jpg",
-                "in_project_id": 102,
-                "parent_id": 102
+                "in_project_video": "video_0104.mp4",
+                "in_project_thumbnail": "thumb_0104.jpg",
+                "in_project_id": 104,
+                "parent_id": 104
             }
         ]
     },
@@ -2176,10 +2218,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0103.mp4",
-                "in_project_thumbnail": "thumb_0103.jpg",
-                "in_project_id": 103,
-                "parent_id": 103
+                "in_project_video": "video_0105.mp4",
+                "in_project_thumbnail": "thumb_0105.jpg",
+                "in_project_id": 105,
+                "parent_id": 105
             }
         ]
     },
@@ -2197,10 +2239,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0104.mp4",
-                "in_project_thumbnail": "thumb_0104.jpg",
-                "in_project_id": 104,
-                "parent_id": 104
+                "in_project_video": "video_0106.mp4",
+                "in_project_thumbnail": "thumb_0106.jpg",
+                "in_project_id": 106,
+                "parent_id": 106
             }
         ]
     },
@@ -2218,10 +2260,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0105.mp4",
-                "in_project_thumbnail": "thumb_0105.jpg",
-                "in_project_id": 105,
-                "parent_id": 105
+                "in_project_video": "video_0107.mp4",
+                "in_project_thumbnail": "thumb_0107.jpg",
+                "in_project_id": 107,
+                "parent_id": 107
             }
         ]
     },
@@ -2239,10 +2281,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0106.mp4",
-                "in_project_thumbnail": "thumb_0106.jpg",
-                "in_project_id": 106,
-                "parent_id": 106
+                "in_project_video": "video_0108.mp4",
+                "in_project_thumbnail": "thumb_0108.jpg",
+                "in_project_id": 108,
+                "parent_id": 108
             }
         ]
     },
@@ -2260,10 +2302,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0107.mp4",
-                "in_project_thumbnail": "thumb_0107.jpg",
-                "in_project_id": 107,
-                "parent_id": 107
+                "in_project_video": "video_0109.mp4",
+                "in_project_thumbnail": "thumb_0109.jpg",
+                "in_project_id": 109,
+                "parent_id": 109
             }
         ]
     },
@@ -2281,10 +2323,10 @@
                 "fps": "60",
                 "duration": 1.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0108.mp4",
-                "in_project_thumbnail": "thumb_0108.jpg",
-                "in_project_id": 108,
-                "parent_id": 108
+                "in_project_video": "video_0110.mp4",
+                "in_project_thumbnail": "thumb_0110.jpg",
+                "in_project_id": 110,
+                "parent_id": 110
             }
         ]
     },
@@ -2302,10 +2344,10 @@
                 "fps": "60",
                 "duration": 2.0,
                 "project_name": "Una introducci\u00f3n a las categor\u00edas extrianguladas",
-                "in_project_video": "video_0109.mp4",
-                "in_project_thumbnail": "thumb_0109.jpg",
-                "in_project_id": 109,
-                "parent_id": 109
+                "in_project_video": "video_0111.mp4",
+                "in_project_thumbnail": "thumb_0111.jpg",
+                "in_project_id": 111,
+                "parent_id": 111
             }
         ]
     }
