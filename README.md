@@ -1,0 +1,1 @@
+Este repositorio contiene las animaciones y miniaturas utilizadas para generar la presentación de mi tesis de maestría usando [Manim Editor](https://docs.editor.manim.community/en/stable/). La presentación se puede consultar [aquí](http://dabnciencias.github.io/Examen_profesional).
